@@ -12,7 +12,7 @@ git
 web-browser
 
 ## Installation
-'''git clone 
+'''git clone https://github.com/praxyfarhana/Address.git'''
 
 ## Bugs
 Typing Errors
